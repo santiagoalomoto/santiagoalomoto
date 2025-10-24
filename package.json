@@ -1,0 +1,15 @@
+{
+  "name": "examen1",
+  "version": "1.0.0",
+  "description": "Proyecto Node.js de prueba con test de suma",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Santiago",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
